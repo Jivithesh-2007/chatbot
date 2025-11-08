@@ -1,0 +1,5 @@
+{
+  "name": "MindMingle",
+  "description": "A futuristic, AI-powered chat application with a sleek purple and black theme. It allows users to manage chat sessions, export/import conversations, and switch between dark and light modes, all stored locally in the browser.",
+  "requestFramePermissions": []
+}
